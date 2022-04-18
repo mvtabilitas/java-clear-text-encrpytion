@@ -2,7 +2,7 @@
 
 Class with various functions for strings manipulations.
 
-It has only two public methods. encrypt() and decrypt().
+Has two main methods: encrypt() and decrypt().
 encrypt()'s process:
 
   the encryption of the string:
